@@ -1,4 +1,4 @@
-#!/bin/sh -ex
+#!/bin/sh -e
 
 DEVENV_DIR=$(dirname "$0")
 MOUNT_POINT=./mnt

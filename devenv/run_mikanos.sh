@@ -1,4 +1,4 @@
-#!/bin/sh -ex
+#!/bin/sh -e
 
 DEVENV_DIR=$(dirname "$0")
 DISK_IMG=./disk.img
